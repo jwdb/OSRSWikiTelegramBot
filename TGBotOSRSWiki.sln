@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGBotOSRSWiki", "TGBotOSRSWiki.csproj", "{D556EA0A-6323-4FC6-9AF2-066E1982C70C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D556EA0A-6323-4FC6-9AF2-066E1982C70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D556EA0A-6323-4FC6-9AF2-066E1982C70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D556EA0A-6323-4FC6-9AF2-066E1982C70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D556EA0A-6323-4FC6-9AF2-066E1982C70C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {488893C6-CEB8-468F-81C5-AD87A782BB84}
+	EndGlobalSection
+EndGlobal
